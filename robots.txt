@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://rainc.io
+
+# Sitemaps
+Sitemap: https://rainc.io/sitemap.xml
