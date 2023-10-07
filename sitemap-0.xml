@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://rainc.io</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/about</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/moment</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/post/docker_learn-01</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/post/docker-learn-02</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/post/docker-compose-03</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/post/git-set-accounts</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/post/github-action</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/post/next.js-write-file</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/post/node-wechat</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rainc.io/post</loc><lastmod>2023-10-07T10:07:00.892Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
